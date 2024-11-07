@@ -1,0 +1,2 @@
+age,loanAmount,creditScore,expectedResult
+16,10000,650,"No elegible: El solicitante debe tener al menos 18 años."
